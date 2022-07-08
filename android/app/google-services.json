@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373606307117",
+    "project_id": "pntome-5e004",
+    "storage_bucket": "pntome-5e004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373606307117:android:e73ea9ef0bc229047f2fa4",
+        "android_client_info": {
+          "package_name": "pntome.cisteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373606307117-loeuj92era5u267l57lji7ibur3lno0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVOFjFDLbc-78Bv19sqIxXfj230pS5fZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373606307117-loeuj92era5u267l57lji7ibur3lno0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
